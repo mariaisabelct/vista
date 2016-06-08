@@ -1,1 +1,2 @@
-# "A Primeira Vista" website
+# "A Primeira Vista" website.
+(please unzip file)
